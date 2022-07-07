@@ -1,2 +1,0 @@
-# AmbgiousCraftsmanship
-First steps
